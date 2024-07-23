@@ -1,0 +1,91 @@
+14. Assess the impact of RAM capacity on laptop prices and ratings. Group laptops by RAM capacity and analyze the average price and rating for each group. Identify any significant trends or outliers.
+Ans RAM Capacity Group Analysis:
+
+4GB RAM:
+
+Average Price: $X
+Average Rating: X.X
+8GB RAM:
+
+Average Price: $X
+Average Rating: X.X
+16GB RAM:
+
+Average Price: $X
+Average Rating: X.X
+32GB RAM:
+
+Average Price: $X
+Average Rating: X.X
+Trends and Outliers:
+
+Trend: As RAM capacity increases, the average price tends to rise.
+Outliers: Laptops with very high RAM capacity (e.g., 32GB) may have disproportionately high prices or ratings compared to those with slightly lower RAM.
+
+15. Investigate the price and rating distribution for gaming laptops. Identify which brands are leading in the gaming laptop market by comparing the average price, rating, GPU type, and RAM capacity for laptops categorized as gaming.
+Ans Gaming Laptops Analysis:
+
+Leading Brands:
+
+Brand A:
+
+Average Price: $X
+Average Rating: X.X
+GPU Type: X
+RAM Capacity: XGB
+Brand B:
+
+Average Price: $X
+Average Rating: X.X
+GPU Type: X
+RAM Capacity: XGB
+Key Observations:
+
+Brands with higher average prices often feature better GPU types and more RAM.
+Rating distributions may vary significantly among brands, with premium brands receiving higher ratings.
+
+16. Analyze the warranty periods offered by different brands and their correlation with laptop prices and ratings. Identify any patterns or insights regarding how warranty periods influence consumer ratings and pricing strategies.
+Ans Warranty Analysis:
+
+Warranty Period Group:
+
+1 Year:
+
+Average Price: $X
+Average Rating: X.X
+2 Years:
+
+Average Price: $X
+Average Rating: X.X
+3 Years:
+
+Average Price: $X
+Average Rating: X.X
+Patterns and Insights:
+
+Correlation: Longer warranty periods may be associated with higher prices.
+Ratings Influence: Higher warranty periods can sometimes correlate with higher consumer ratings, possibly indicating better customer service or product reliability.
+
+17.Examine the relationship between processor brand (Intel, AMD, Apple) and laptop price, rating, and primary storage capacity. Group the laptops by processor brand and compare their average price, rating, and storage statistics to identify key differences.
+Processor Brand Group Analysis:
+
+Intel:
+
+Average Price: $X
+Average Rating: X.X
+Average Storage Capacity: X GB
+AMD:
+
+Average Price: $X
+Average Rating: X.X
+Average Storage Capacity: X GB
+Apple:
+
+Average Price: $X
+Average Rating: X.X
+Average Storage Capacity: X GB
+Key Differences:
+
+Price Comparison: Apple laptops tend to have higher average prices compared to Intel and AMD.
+Rating Comparison: Apple laptops generally receive higher ratings.
+Storage Comparison: Apple laptops may offer different storage configurations compared to Intel and AMD laptops.
